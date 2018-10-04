@@ -55,7 +55,6 @@ Discord
 Dodge
 Domino's
 Dropbox
-Dropbox
 Duracell
 eBay
 Edx
@@ -66,7 +65,6 @@ Equifax
 Esquire
 Etsy
 Everready
-Evernote
 Evernote
 Facebook
 Ferrari
@@ -177,7 +175,6 @@ Podcasts
 Pornhub
 ProtonMail
 Python
-Reddit
 Reddit
 Red Hat
 Robots
